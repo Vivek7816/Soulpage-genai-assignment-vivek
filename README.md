@@ -1,4 +1,4 @@
-# Conersational Knowledge Bot (Langchain + Memory + Wikipidea)
+# Conversational Knowledge Bot (Langchain + Memory + Wikipidea)
 
 # Overview of the project
 1. Answer factual questions using an external knowledge source
@@ -23,4 +23,5 @@ This approach avoids paid LLM APIs while still demonstrating tool integration, m
 1. main.py (python)
 2. README.md (documentation)
 3. requirements.txt 
+
 4. venv/ (local)
