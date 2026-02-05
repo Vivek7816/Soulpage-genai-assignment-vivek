@@ -1,0 +1,23 @@
+# Setup Instructions
+    1. Python 3.10 or above
+    2. Git (for cloning)
+    3. Internet connection (for wikipedia lookups)
+
+1. Clone the Repository
+git clone https://github.com/your-username/Soulpage-genai-assignment-vivek.git
+cd Soulpage-genai-assignment-vivek
+
+2. Create a virtual environment
+python -m venv venv
+
+3. Activate it
+venv\Scripts\activate
+
+(After activating you should see venv)
+
+4. Install Dependencies
+pip install -r requirements.txt
+
+5.Run the Application (Command-line chat loop)
+python main.py
+
